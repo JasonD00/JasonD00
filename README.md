@@ -112,5 +112,3 @@ style C3 fill:#0C0C0C,stroke:#C6A667,stroke-width:1.5px,color:#FFFFFF
 
 
 ```
-
-<div align="center" style="margin-top: 20px;"> <img src="https://img.shields.io/badge/Commits-1.2k-0C0C0C?style=for-the-badge&logo=github&logoColor=C6A667" /> <img src="https://img.shields.io/badge/Pull%20Requests-89-0C0C0C?style=for-the-badge&logo=github&logoColor=C6A667" /> <img src="https://img.shields.io/badge/Issues-34-0C0C0C?style=for-the-badge&logo=github&logoColor=C6A667" /> <img src="https://img.shields.io/badge/Stars-76-0C0C0C?style=for-the-badge&logo=github&logoColor=C6A667" /> </div> <div align="center" style="margin-top: 20px;"> <img src="https://ghchart.rshah.org/C6A667/JasonD00" alt="GitHub Contributions" /> </div> </div> \`\`\`
