@@ -54,10 +54,15 @@ Focused on clarity, maintainability, and efficient system architecture.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
       <br>PostgreSQL
     </td>
+     <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60"/>
+      <br>Spring Boot
+    </td>
   </tr>
 </table>
 
 </div>
+
 
 ---
 
