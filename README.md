@@ -15,7 +15,8 @@
 ---
 
 # **Profile**
-A software developer specializing in **backend engineering**, **database systems**, and **scalable application design**.  
+A software developer specializing in **backend engineering**, **database systems**, and **scalable application design**.
+Currently completing the third year of a 4-year Computer Science degree.
 Focused on clarity, maintainability, and efficient system architecture.
 
 - **Location:** Dublin, Ireland 🇮🇪  
