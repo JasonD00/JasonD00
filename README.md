@@ -19,10 +19,16 @@ An enthusiastic student currently completing the third year of a 4-year Bachelor
 
 Currently studying: Advanced Programming, Advanced Computer networks, Artificial Intelligence, Security fundamentals and development.
 
-- **Interests:** Teaching AI systems humility, one adversarial prompt at a time  
+
 - **Location:** Dublin, Ireland 🇮🇪  
 - **Current Work:** Java systems, database design, backend architecture  
-- **Open To:** collaboration, backend development roles, system-focused projects  
+- **Open To:** collaboration, backend development roles, system-focused projects
+
+
+  ## **Interests**
+- **Reading:** Philosophy (Eastern & Western), mysticism, classic literature, horror fiction, theology, and epistemology
+- **Physical:** Weightlifting and fitness
+- **Technical:** Software development and solving complex problems through code
 
 ---
 
@@ -33,9 +39,7 @@ Currently studying: Advanced Programming, Advanced Computer networks, Artificial
 ---
 
 # **Technology Suite**
-
 <div align="center">
-
 <table>
   <tr>
     <td align="center" width="25%">
@@ -51,32 +55,29 @@ Currently studying: Advanced Programming, Advanced Computer networks, Artificial
       <br>MySQL
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
-      <br>PostgreSQL
-    </td>
-     <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60"/>
       <br>Spring Boot
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/>
-  <br>Node.js
-</td>
-<td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
-  <br>HTML5
-</td>
-<td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
-  <br>CSS3
-</td>
-<td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="60"/>
-  <br>XML
-</td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
+      <br>HTML
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
+      <br>CSS
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="60"/>
+      <br>XML
+    </td>
   </tr>
 </table>
-
 </div>
 
 
