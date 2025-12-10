@@ -16,6 +16,7 @@
 
 # **Profile**
 An enthusiastic student currently completing the third year of a 4-year Bachelor of Science (Honours) in computing at (NCI) National college of Ireland.
+
 Currently studying: Advanced Programming, Advanced Computer networks, Artificial Intelligence, Security fundamentals and development.
 
 - **Interests:** Teaching AI systems humility, one adversarial prompt at a time  
