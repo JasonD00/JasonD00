@@ -15,12 +15,11 @@
 ---
 
 # **Profile**
-A software developer specializing in **backend engineering**, **database systems**, and **scalable application design**.
-Currently completing the third year of a 4-year Computer Science degree.
-Focused on clarity, maintainability, and efficient system architecture.
+An enthusiastic student currently completing the third year of a 4-year Bachelor of Science (Honours) in computing at (NCI) National college of Ireland.
+Currently studying: Advanced Programming, Advanced Computer networks, Artificial Intelligence, Security fundamentals and development.
 
+- **Interests:** Teaching AI systems humility, one adversarial prompt at a time  
 - **Location:** Dublin, Ireland 🇮🇪  
-- **Interests:** clean code, system optimization, problem solving  
 - **Current Work:** Java systems, database design, backend architecture  
 - **Open To:** collaboration, backend development roles, system-focused projects  
 
@@ -58,6 +57,22 @@ Focused on clarity, maintainability, and efficient system architecture.
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60"/>
       <br>Spring Boot
     </td>
+    <td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/>
+  <br>Node.js
+</td>
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
+  <br>HTML5
+</td>
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
+  <br>CSS3
+</td>
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="60"/>
+  <br>XML
+</td>
   </tr>
 </table>
 
