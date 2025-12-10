@@ -23,12 +23,12 @@ Currently studying: Advanced Programming, Advanced Computer networks, Artificial
 - **Location:** Dublin, Ireland 🇮🇪  
 - **Current Work:** Java systems, database design, backend architecture  
 - **Open To:** collaboration, backend development roles, system-focused projects
-
+- **Interests:** 
 
   ## **Interests**
 - **Reading:** Philosophy (Eastern & Western), mysticism, classic literature, horror fiction, theology, and epistemology
 - **Physical:** Weightlifting and fitness
-- **Technical:** Software development and solving complex problems through code
+- **Technical:** Philosophy, literature, fitness, and software development.
 
 ---
 
